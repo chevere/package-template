@@ -1,6 +1,6 @@
 {
-    "name": "chevere/repo-name",
-    "description": "A chevere repo-name abstraction.",
+    "name": "chevere/%repoName%",
+    "description": "A chevere %repoName% abstraction.",
     "homepage": "https://chevere.org",
     "type": "library",
     "license": "Apache-2.0",
@@ -23,12 +23,12 @@
             "src/functions.php"
         ],
         "psr-4": {
-            "Chevere\\TheNamespace\\": "src/"
+            "Chevere\\%namespace%\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Chevere\\Tests\\TheNamespace\\": "tests/"
+            "Chevere\\Tests\\%namespace%\\": "tests/"
         }
     },
     "config": {
