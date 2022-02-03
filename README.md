@@ -8,7 +8,7 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=chevere_%repoName%&metric=alert_status)](https://sonarcloud.io/dashboard?id=chevere_%repoName%) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=chevere_%repoName%&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=chevere_%repoName%) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=chevere_%repoName%&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=chevere_%repoName%) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=chevere_%repoName%&metric=security_rating)](https://sonarcloud.io/dashboard?id=chevere_%repoName%) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=chevere_%repoName%&metric=coverage)](https://sonarcloud.io/dashboard?id=chevere_%repoName%) [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=chevere_%repoName%&metric=sqale_index)](https://sonarcloud.io/dashboard?id=chevere_%repoName%) [![CodeFactor](https://www.codefactor.io/repository/github/chevere/%repoName%/badge)](https://www.codefactor.io/repository/github/chevere/%repoName%) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b956754f8ff04aaa9ca24a6e4cc21661)](https://www.codacy.com/gh/chevere/%repoName%/dashboard)
 
-The chevere %repoName% abstraction.
+The chevere %repoName% component.
 
 ## Documentation
 
