@@ -1,6 +1,6 @@
 {
     "name": "chevere/%repoName%",
-    "description": "A chevere %repoName% abstraction.",
+    "description": "A chevere %repoName% component.",
     "homepage": "https://chevere.org",
     "type": "library",
     "license": "Apache-2.0",
