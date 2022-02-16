@@ -28,7 +28,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Chevere\\Tests\\%namespace%\\": "tests/"
+            "Chevere\\Tests\\": "tests/"
         }
     },
     "config": {
