@@ -40,7 +40,7 @@
         "all": [
             "composer phpstan",
             "composer test",
-            "composer test-rep",
+            "composer test-coverage",
             "composer infection"
         ],
         "infection": "infection --only-covered -j10",
