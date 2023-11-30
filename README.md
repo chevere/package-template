@@ -17,7 +17,6 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=chevere_reponame&metric=coverage)](https://sonarcloud.io/dashboard?id=chevere_reponame)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=chevere_reponame&metric=sqale_index)](https://sonarcloud.io/dashboard?id=chevere_reponame)
 [![CodeFactor](https://www.codefactor.io/repository/github/chevere/reponame/badge)](https://www.codefactor.io/repository/github/chevere/reponame)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b956754f8ff04aaa9ca24a6e4cc21661)](https://app.codacy.com/gh/chevere/reponame/dashboard)
 
 ## Documentation
 
