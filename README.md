@@ -1,7 +1,5 @@
 # %namespace%
 
-> 🔔 Subscribe to the [newsletter](https://chv.to/chevere-newsletter) to don't miss any update regarding Chevere.
-
 ![Chevere](chevere.svg)
 
 [![Build](https://img.shields.io/github/actions/workflow/status/chevere/reponame/test.yml?branch=%branch%&style=flat-square)](https://github.com/chevere/reponame/actions)
