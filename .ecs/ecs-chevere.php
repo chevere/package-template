@@ -49,6 +49,7 @@ use PhpCsFixer\Fixer\StringNotation\SingleQuoteFixer;
 use PhpCsFixer\Fixer\Whitespace\BlankLineBeforeStatementFixer;
 use PhpCsFixer\Fixer\Whitespace\CompactNullableTypehintFixer;
 use PhpCsFixer\Fixer\Whitespace\NoExtraBlankLinesFixer;
+use PhpCsFixer\Fixer\Whitespace\StatementIndentationFixer;
 use PhpCsFixer\Fixer\Whitespace\TypesSpacesFixer;
 use Symplify\CodingStandard\Fixer\Commenting\ParamReturnAndVarTagMalformsFixer;
 use Symplify\EasyCodingStandard\Config\ECSConfig;
@@ -119,5 +120,6 @@ return static function (ECSConfig $ecsConfig): void {
     ]);
     $ecsConfig->skip([
         SingleImportPerStatementFixer::class => null,
+        StatementIndentationFixer::class => null,
     ]);
 };
